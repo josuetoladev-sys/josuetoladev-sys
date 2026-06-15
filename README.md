@@ -46,6 +46,8 @@
 
 ---
 
+---
+
 ## 📁 Proyectos Destacados
 
 ### 📂 Proyectos Concluidos
@@ -55,9 +57,10 @@
 > - **Backend:** Arquitecturas escalables, seguras y robustas con **Node.js** y **Django**.
 > - **Bases de Datos:** Modelado, optimización y consultas eficientes en **PostgreSQL** y **MySQL**.
 
-### ⏳ En Desarrollo
+### ⏳ En Desarrollo & Portafolio Técnico
 ```text
-⏳ Próximamente en GitHub:
-└── 🚀 Sistemas distribuidos de alta complejidad
-    ├── Arquitecturas de microservicios optimizadas
-    └── Integración avanzada de los stacks mencionados
+💼 Proyectos y Aplicaciones Web Desarrolladas:
+├── ⚛️ 3 Páginas Web completas con React.js
+├── 🟢 2 Aplicaciones Web interactivas con Vue.js
+├── 🟢 1 Servidor / API REST desarrollado en Node.js
+└── 🐍 1 Sistema de Gestión estructurado con Django
