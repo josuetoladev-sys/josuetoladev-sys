@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mí
 
-¡Bienvenido a mi perfil de GitHub! Soy **Josué Tola Colque**, Ingeniero de Sistemas en formación de la **Universidad de Aquino Bolivia (UDABOL)**, con base en Oruro, Bolivia 🇧🇴. Actualmente me encuentro en la etapa final, preparando la defensa de mi proyecto de grado.
+¡Bienvenido a mi perfil de GitHub! Soy **Josué Tola Colque**, Ingeniero de Sistemas en formación de la **Universidad de Aquino Bolivia (UDABOL)**, con base en Oruro, Bolivia 🇧🇴. Actualmente me encuentro en la etapa final, preparando la defensa de mi Examen de grado.
 
 * 🏫 **Educación:** Egresado de Ingeniería de Sistemas (UDABOL).
 * 📍 **Ubicación:** Oruro, Bolivia.
