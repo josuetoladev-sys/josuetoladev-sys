@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=10,00b4d8,0077b6,0d1117&height=280&section=header&text=Josué%20Tola%20Colque&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&customColorList=30,7b2cbf,ee4266,00f5d4,0d1117&height=280&section=header&text=Josué%20Tola%20Colque&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%" />
   
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+en+formación;Apasionado+por+el+software;Full+Stack+Developer+en+progreso" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00f5d4&center=true&vCenter=true&width=500&lines=Ingeniero+de+Sistemas+en+formación;Apasionado+por+el+software;Full+Stack+Developer+en+progreso" alt="Typing SVG" />
   </h3>
 
   <p align="center">
-    <a href="https://wa.me/59167257505" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> 🔍 
+    <a href="https://wa.me/59167257505" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a> ⚡ 
     <a href="mailto:josuetola.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
