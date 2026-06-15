@@ -1,11 +1,16 @@
 <div align="center">
+  <!-- Banner animado fluido que simula movimiento constante de fondo -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&customColorList=30,12072b,7b2cbf,00f5d4&height=250&section=header&text=💻%20Josué%20Tola%20Colque&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" />
   
-  # 💻 Josué Tola Colque
+  <br>
   
-  ### 🚀 Ingeniero de Sistemas en Formación
-  
-  Trabajando con arquitecturas modernas, desarrollo Full Stack y optimización de datos.
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00f5d4&center=true&vCenter=true&width=500&lines=🚀+Ingeniero+de+Sistemas;⚡+Desarrollador+Full+Stack;✨+Apasionado+por+el+Software" alt="Typing SVG" />
+  </h3>
 
+  <p>Trabajando con arquitecturas modernas, desarrollo Full Stack y optimización de datos.</p>
+
+  <!-- Botones de contacto estilizados estilo Cápsula -->
   <p align="center">
     <a href="https://wa.me/59167257505" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
@@ -46,8 +51,6 @@
 
 ---
 
----
-
 ## 📁 Proyectos Destacados
 
 ### 📂 Proyectos Concluidos
@@ -58,6 +61,12 @@
 > - **Bases de Datos:** Modelado, optimización y consultas eficientes en **PostgreSQL** y **MySQL**.
 
 ### ⏳ En Desarrollo & Portafolio Técnico
+
+<!-- Contenedor interactivo: Simula un efecto colapsable de terminal al hacer click -->
+<details open>
+<summary><b>📊 Desplegar Métricas de Desarrollo (Click para cerrar/abrir)</b></summary>
+<br>
+
 ```text
 💼 Proyectos y Aplicaciones Web Desarrolladas:
 ├── ⚛️ 3 Páginas Web completas con React.js
