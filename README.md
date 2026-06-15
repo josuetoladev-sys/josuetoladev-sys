@@ -6,10 +6,10 @@
 
 ¡Bienvenido a mi perfil de GitHub! Soy **Josué Tola Colque**, Ingeniero de Sistemas en formación de la **Universidad de Aquino Bolivia (UDABOL)**, con base en Oruro, Bolivia 🇧🇴. Actualmente me encuentro en la etapa final, preparando la defensa de mi proyecto de grado.
 
-*   🏫 **Educación:** Egresado de Ingeniería de Sistemas (UDABOL).
-*   📍 **Ubicación:** Oruro, Bolivia.
-*   💼 **Experiencia:** Realicé mis pasantías en el **CITI** (Colegio de Ingenieros de Oruro), desempeñando funciones en el edificio de la **SIB** (Sociedad de Ingenieros de Bolivia).
-*   🎯 **Meta actual:** Defender mi proyecto de grado e iniciar mi camino profesional en el desarrollo y gestión de sistemas.
+* 🏫 **Educación:** Egresado de Ingeniería de Sistemas (UDABOL).
+* 📍 **Ubicación:** Oruro, Bolivia.
+* 💼 **Experiencia:** Realicé mis pasantías en el **CITI** (Colegio de Ingenieros de Oruro), desempeñando funciones en el edificio de la **SIB** (Sociedad de Ingenieros de Bolivia).
+* 🎯 **Meta actual:** Defender mi proyecto de grado e iniciar mi camino profesional en el desarrollo y gestión de sistemas.
 
 ---
 
@@ -19,7 +19,7 @@ Actualmente aplico mis conocimientos en Ingeniería de Sistemas desarrollando so
 
 ### 🎯 Proyectos Concluidos
 * **Desarrollo Frontend:** Interfaces dinámicas y reactivas creadas utilizando **Vue.js** y **React**.
-* **Desarrollo Backend & APIs:** Lógica de servidor sólida e integración de bases de datos utilizando **Node.js** y **Django**.
+* **Desarrollo Backend, APIs & Bases de Datos:** Lógica de servidor sólida e integración de bases de datos utilizando **Node.js**, **Django**, **MySQL** y **PostgreSQL**.
 
 ### ⏳ Proyectos en Desarrollo (Próximamente en GitHub)
 * Continúo expandiendo y finalizando sistemas avanzados basados en arquitecturas robustas combinando estos mismos frameworks para optimizar su rendimiento.
@@ -31,6 +31,8 @@ Actualmente aplico mis conocimientos en Ingeniería de Sistemas desarrollando so
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
